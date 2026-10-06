@@ -1,4 +1,4 @@
-# TUGAS-SCRAPING-1-AHMAD-AQIIL-FARRAS
+# TUGAS-SCRAPING-1-Nur Azizah Ardatillah
 
 ## Latar Belakang Pemilihan Portal Berita
 
